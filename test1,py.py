@@ -57,9 +57,18 @@
 #     break
 
 # -----------------------------------------------
+#
+# count = int(input("how much * do you want? "))
+# result = ""
+# for i in range(count):
+#     result = "*"*(i+1)
+#     print(result)
 
-count = int(input("how much * do you want? "))
-result = ""
-for i in range(count):
-    result = "*"*(i+1)
-    print(result)
+# -----------------------------------------------
+# pyramid *
+# count = int(input("how height do you want?"))
+# result = ""
+# for i in range(count):
+#     print(" "*(count-i),"*"*(i*2+1))
+#
+# -----------------------------------------------
